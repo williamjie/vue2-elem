@@ -16,6 +16,11 @@
 
 __注：此项目纯属个人瞎搞，正常下单请选择饿了么官方客户端。__
 
+## 项目结构 **************************
+    1.william-jie/vue2-elem 前端项目页面
+    2.williamjie/node-elem  后端nodejs API接口项目
+    3.williamjie/vue2-manage 项目管理后台页面
+
 
 ## 技术栈
 
